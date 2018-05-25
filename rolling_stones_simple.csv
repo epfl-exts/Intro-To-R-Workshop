@@ -1,0 +1,341 @@
+song_name,release_year,song_duration,song_popularity,live
+Sad Sad Sad,1989,215,23,FALSE
+Mixed Emotions,1989,278.64,30,FALSE
+Terrifying,1989,291.5,22,FALSE
+Hold On To Your Hat,1989,212.133,19,FALSE
+Hearts For Sale,1989,279.75,20,FALSE
+Blinded By Love,1989,276.933,21,FALSE
+Rock And A Hard Place,1989,325.24,24,FALSE
+Can't Be Seen,1989,250.2,21,FALSE
+Almost Hear You Sigh,1989,276,28,FALSE
+Continental Drift,1989,313.733,18,FALSE
+Break The Spell,1989,187.573,16,FALSE
+Slipping Away,1989,268.933,39,FALSE
+Continental Drift - Live,1991,27.678,0,TRUE
+"Start Me Up - Live At Death Valley Stadium, South Carolina, USA / 1989",1991,234.107,7,TRUE
+"Sad Sad Sad - Live At Atlantic City Convention Centre, USA / 1989",1991,213.02,4,TRUE
+"Miss You - Live At The Gatorbowl, Florida, USA / 1989",1991,355.027,9,TRUE
+"Rock And A Hard Place - Live At The Gatorbowl, Florida, USA / 1989",1991,291.968,5,TRUE
+"Ruby Tuesday - Live At Korakuen Dome, Japan / 1990",1991,213.493,7,TRUE
+"You Can't Always Get What You Want - Live At The Gatorbowl, Florida, USA / 1989",1991,445.733,6,TRUE
+"Factory Girl - Live At Wembley Stadium, England / 1990",1991,167.707,3,TRUE
+"Can't Be Seen - Live At Death Valley Stadium, South Carolina, USA / 1989",1991,257.093,3,TRUE
+"Little Red Rooster - Live At Atlantic City Convention Centre, USA / 1989",1991,315.467,3,TRUE
+"Paint It Black - Live At Olympic Stadium, Barcelona, Spain / 1990",1991,242.277,8,TRUE
+"Sympathy For The Devil - Live At Korakuen Dome, Japan / 1990",1991,334.96,7,TRUE
+"Brown Sugar - Live At Stadia Delle Alpi, Turin, Italy / 1990",1991,250.44,4,TRUE
+"Jumpin' Jack Flash - Live At Korakuen Dome, Tokyo, Japan / 1995",1991,299.584,5,TRUE
+"(I Can't Get No) Satisfaction - Live At Death Valley Stadium, South Carolina, USA / 1989",1991,368.6,6,TRUE
+Highwire,1991,286.533,3,FALSE
+Sex Drive,1991,267.6,5,FALSE
+Love Is Strong,1994,228.867,35,FALSE
+You Got Me Rocking,1994,216.133,33,FALSE
+Sparks Will Fly,1994,195.467,24,FALSE
+The Worst,1994,144.867,23,FALSE
+New Faces,1994,171.76,20,FALSE
+Moon Is Up,1994,220.307,25,FALSE
+Out Of Tears,1994,327.6,28,FALSE
+I Go Wild,1994,264,23,FALSE
+Brand New Car,1994,254,21,FALSE
+Sweethearts Together,1994,285.64,21,FALSE
+Suck On The Jugular,1994,266.533,19,FALSE
+Blinded By Rainbows,1994,273.907,30,FALSE
+Baby Break It Down,1994,248.227,19,FALSE
+Thru and Thru,1994,361.093,29,FALSE
+Mean Disposition,1994,248.507,18,FALSE
+Street Fighting Man - Live / Remastered 2009,1995,220.6,20,TRUE
+Like A Rolling Stone - Live / Remastered 2009,1995,338.933,33,TRUE
+Not Fade Away - Live / Remastered 2009,1995,186.293,19,TRUE
+Shine A Light - Live / Remastered 2009,1995,278.2,20,TRUE
+The Spider And The Fly - Live / Remastered 2009,1995,208.6,21,TRUE
+I'm Free - Live / Remastered 2009,1995,192.667,18,TRUE
+Wild Horses - Live / Remastered 2009,1995,309.4,28,TRUE
+Let It Bleed - Live / Remastered 2009,1995,255.933,20,TRUE
+Dead Flowers - Live / Remastered 2009,1995,252.107,22,TRUE
+Slipping Away - Live / Remastered 2009,1995,295.16,18,TRUE
+Angie - Live / Remastered 2009,1995,208.933,23,TRUE
+Love In Vain - Live / Remastered 2009,1995,331.44,18,TRUE
+Sweet Virginia - Live / Remastered 2009,1995,255.627,22,TRUE
+Little Baby - Live / Remastered 2009,1995,240.533,17,TRUE
+Flip The Switch,1997,207.227,23,FALSE
+Anybody Seen My Baby?,1997,271.173,40,FALSE
+Low Down,1997,264,21,FALSE
+Already Over Me,1997,322.75,22,FALSE
+Gunface,1997,302.133,20,FALSE
+You Don't Have To Mean It,1997,221.75,20,FALSE
+Out Of Control,1997,282.25,41,FALSE
+Saint Of Me,1997,314.667,29,FALSE
+Might As Well Get Juiced,1997,323.293,18,FALSE
+Always Suffering,1997,283.84,20,FALSE
+Too Tight,1997,213.667,20,FALSE
+Thief In The Night,1997,315,19,FALSE
+How Can I Stop,1997,413,19,FALSE
+Neighbours - Live Licks Tour,2004,220.56,22,TRUE
+Monkey Man - Live Licks Tour,2004,221,24,TRUE
+Rocks Off - Live Licks Tour,2004,221.867,24,TRUE
+Can't You Hear Me Knocking - Live Licks Tour,2004,602.333,24,TRUE
+That's How Strong My Love Is - Live Licks Tour,2004,284.907,23,TRUE
+The Nearness Of You - Live Licks Tour,2004,274.427,22,TRUE
+Beast Of Burden - Live Licks Tour,2004,248.667,30,TRUE
+When The Whip Comes Down - Live Licks Tour,2004,268.507,21,TRUE
+"Rock Me, Baby - Live Licks Tour",2004,230.467,23,TRUE
+You Don't Have To Mean It - Live Licks Tour,2004,274.8,20,TRUE
+Worried About You - Live Licks Tour,2004,360.893,22,TRUE
+Everybody Needs Somebody To Love - Live Licks Tour,2004,394.307,23,TRUE
+Brown Sugar - Live Licks Tour,2004,230.227,26,TRUE
+Street Fighting Man - Live Licks Tour,2004,223.467,23,TRUE
+Paint It Black - Live Licks Tour,2004,224.667,28,TRUE
+You Can't Always Get What You Want - Live Licks Tour,2004,405.707,30,TRUE
+Start Me Up - Live Licks Tour,2004,242.227,29,TRUE
+It's Only Rock 'n' Roll (But I Like It) - Live Licks Tour,2004,294.267,26,TRUE
+Angie - Live Licks Tour,2004,209.173,30,TRUE
+Honky Tonk Women - Live Licks Tour,2004,204.293,29,TRUE
+Rough Justice,2005,191.933,24,FALSE
+Let Me Down Slow,2005,254,24,FALSE
+It Won't Take Long,2005,234.96,21,FALSE
+Rain Fall Down,2005,293,35,FALSE
+Streets Of Love,2005,310.2,39,FALSE
+Back Of My Hand,2005,212.933,21,FALSE
+She Saw Me Coming,2005,191.75,20,FALSE
+Biggest Mistake,2005,246.4,23,FALSE
+This Place Is Empty,2005,196.56,24,FALSE
+"Oh No, Not You Again",2005,226.8,20,FALSE
+Dangerous Beauty,2005,228.133,19,FALSE
+"Laugh, I Nearly Died",2005,294.04,30,FALSE
+Sweet Neo Con,2005,272.75,18,FALSE
+Look What The Cat Dragged In,2005,237,18,FALSE
+Driving Too Fast,2005,236.933,18,FALSE
+Infamy,2005,226.75,18,FALSE
+"Jumping Jack Flash - Live At The Beacon Theatre, New York / 2006",2008,262.933,38,TRUE
+"Shattered - Live At The Beacon Theatre, New York / 2006",2008,246,25,TRUE
+"She Was Hot - Live At The Beacon Theatre, New York / 2006",2008,284.333,27,TRUE
+"All Down The Line - Live At The Beacon Theatre, New York / 2006",2008,275.56,25,TRUE
+"Loving Cup - Live At The Beacon Theatre, New York / 2006",2008,242.2,32,TRUE
+"As Tears Go By - Live At The Beacon Theatre, New York / 2006",2008,211.933,31,TRUE
+"Some Girls - Live At The Beacon Theatre, New York / 2006",2008,259.173,26,TRUE
+"Just My Imagination - Live At The Beacon Theatre, New York / 2006",2008,399.867,26,TRUE
+"Faraway Eyes - Live At The Beacon Theatre, New York / 2006",2008,277.027,27,TRUE
+"Champagne & Reefer - Live At The Beacon Theatre, New York / 2006",2008,358.267,28,TRUE
+"Tumbling Dice - Live At The Beacon Theatre, New York / 2006",2008,264.773,27,TRUE
+"Band Introductions - Live At The Beacon Theatre, New York / 2006",2008,99.893,21,TRUE
+"You Got The Silver - Live At The Beacon Theatre, New York / 2006",2008,201.707,28,TRUE
+"Connection - Live At The Beacon Theatre, New York / 2006",2008,210.893,23,TRUE
+"Martin Scorsese Intro - Live At The Beacon Theatre, New York / 2006",2008,12.4,0,TRUE
+"Sympathy For The Devil - Live At Beacon Theatre, New York / 2006",2008,356.627,31,TRUE
+"Live With Me - Live At The Beacon Theatre, New York / 2006",2008,233.973,25,TRUE
+"Start Me Up - Live At The Beacon Theatre, New York / 2006",2008,245.6,29,TRUE
+"Brown Sugar - Live At The Beacon Theatre, New York / 2006",2008,325.4,26,TRUE
+"(I Can't Get No) Satisfaction - Live At The Beacon Theatre, New York / 2006",2008,336.76,28,TRUE
+Let It Rock - Live,2011,132.533,20,TRUE
+All Down The Line - Live,2011,236.627,19,TRUE
+Honky Tonk Women - Live,2011,218.28,21,TRUE
+Star Star - Live,2011,227.547,21,TRUE
+When The Whip Comes Down - Live,2011,313.213,19,TRUE
+Beast Of Burden - Live,2011,388.907,27,TRUE
+Miss You - Live,2011,515.56,23,TRUE
+Just My Imagination - Live,2011,400.093,20,TRUE
+Shattered - Live,2011,284.947,18,TRUE
+Respectable - Live,2011,203.267,18,TRUE
+Far Away Eyes - Live,2011,351.107,19,TRUE
+Love In Vain - Live,2011,293.813,16,TRUE
+Tumbling Dice - Live,2011,278.893,19,TRUE
+Happy - Live,2011,192.747,18,TRUE
+Sweet Little Sixteen - Live,2011,191.493,19,TRUE
+Brown Sugar - Live,2011,194.453,18,TRUE
+Jumpin' Jack Flash - Live,2011,375.24,18,TRUE
+Show Intro - Live In Ireland / 1965,2012,21,0,TRUE
+Everybody Needs Somebody To Love - Live In Ireland / 1965,2012,35.92,22,TRUE
+Pain In My Heart - Live In Ireland / 1965,2012,123.507,18,TRUE
+Down The Road Apiece - Live In Ireland / 1965,2012,103.147,17,TRUE
+Time Is On My Side - Live In Ireland / 1965,2012,171.267,22,TRUE
+I'm Alright - Live In Ireland / 1965,2012,135.04,18,TRUE
+Off The Hook - Live In Ireland / 1965,2012,147.04,17,TRUE
+Charlie's Intro To Little Red Rooster - Live In Ireland / 1965,2012,32.947,15,TRUE
+Little Red Rooster - Live In Ireland / 1965,2012,155.6,20,TRUE
+Route 66 - Live In Ireland / 1965,2012,164.32,23,TRUE
+I'm Moving On - Live In Ireland / 1965,2012,148.56,16,TRUE
+The Last Time - Live In Ireland / 1965,2012,189.6,20,TRUE
+Everybody Needs Somebody To Love (Finale) - Live In Ireland / 1965,2012,246,19,TRUE
+Honky Tonk Women - Live,2016,370.787,20,TRUE
+Tumbling Dice - Live,2016,271.76,19,TRUE
+You Got Me Rockin’ - Live,2016,238.693,18,TRUE
+All Down The Line - Live,2016,318.8,17,TRUE
+Shattered - Live,2016,291.547,16,TRUE
+Beast Of Burden - Live,2016,354.813,19,TRUE
+Let It Bleed - Live,2016,332.16,17,TRUE
+Angie - Live,2016,233.627,19,TRUE
+Wild Horses - Live,2016,358.027,19,TRUE
+Down In The Bottom - Live,2016,239.173,15,TRUE
+Shine A Light - Live,2016,328.067,17,TRUE
+Like A Rolling Stone - Live,2016,380.293,18,TRUE
+I Go Wild - Live,2016,411.613,21,TRUE
+Miss You - Live,2016,907.373,17,TRUE
+Connection - Live,2016,241.92,14,TRUE
+Slipping Away - Live,2016,362.12,15,TRUE
+Midnight Rambler - Live,2016,612.04,15,TRUE
+Rip This Joint - Live,2016,149.64,13,TRUE
+Start Me Up - Live,2016,265.64,16,TRUE
+It's Only Rock N Roll (But I Like It) - Live,2016,304.827,18,TRUE
+Not Fade Away - Live,2016,202.48,21,TRUE
+It's All Over Now - Live,2016,229.853,21,TRUE
+Live With Me - Live,2016,259.68,19,TRUE
+Let It Bleed - Live,2016,306.467,21,TRUE
+The Spider And The Fly - Live,2016,223.48,20,TRUE
+Beast Of Burden - Live,2016,304.6,23,TRUE
+Angie - Live,2016,249.333,22,TRUE
+Wild Horses - Live,2016,320.2,22,TRUE
+Sweet Virginia - Live,2016,280.44,21,TRUE
+Dead Flowers - Live,2016,289.227,20,TRUE
+Shine A Light - Live,2016,305.8,20,TRUE
+Like A Rolling Stone - Live,2016,359.2,22,TRUE
+Connection - Live,2016,386.187,19,TRUE
+Slipping Away - Live,2016,351.533,19,TRUE
+The Worst - Live,2016,151.12,19,TRUE
+Gimme Shelter - Live,2016,404.067,23,TRUE
+All Down The Line - Live,2016,266.707,18,TRUE
+Respectable - Live,2016,171.107,19,TRUE
+Rip This Joint - Live,2016,176.8,22,TRUE
+Street Fighting Man - Live,2016,277.36,19,TRUE
+Honky Tonk Women - Live,2016,283.4,20,TRUE
+Tumbling Dice - Live,2016,281.24,18,TRUE
+You Got Me Rockin’ - Live,2016,206.04,17,TRUE
+Live With Me - Live,2016,252.24,16,TRUE
+Black Limousine - Live,2016,239.267,16,TRUE
+Dead Flowers - Live,2016,258.213,17,TRUE
+Sweet Virginia - Live,2016,266.213,17,TRUE
+Faraway Eyes - Live,2016,296.12,17,TRUE
+Love In Vain - Live,2016,311.827,16,TRUE
+Down In The Bottom - Live,2016,208,15,TRUE
+Shine A Light - Live,2016,281.32,16,TRUE
+Like A Rolling Stone - Live,2016,352.68,18,TRUE
+Monkey Man - Live,2016,263.413,17,TRUE
+I Go Wild - Live,2016,397.627,15,TRUE
+Miss You - Live,2016,831.96,17,TRUE
+Connection - Live,2016,213.627,14,TRUE
+Slipping Away - Live,2016,350.293,14,TRUE
+Midnight Rambler - Live,2016,574.947,15,TRUE
+Rip This Joint - Live,2016,139.44,13,TRUE
+Start Me Up - Live,2016,244.787,16,TRUE
+Not Fade Away - Live,2016,191.76,30,TRUE
+Honky Tonk Woman - Live,2016,293.747,34,TRUE
+Dead Flowers - Live,2016,240.307,30,TRUE
+Faraway Eyes - Live,2016,305.253,26,TRUE
+Shine A Light - Live,2016,291.227,31,TRUE
+I Go Wild - Live,2016,409.333,25,TRUE
+Miss You - Live,2016,579.253,31,TRUE
+Like A Rolling Stone - Live,2016,370.787,34,TRUE
+Brown Sugar - Live,2016,312.733,29,TRUE
+Midnight Rambler - Live,2016,549.773,29,TRUE
+Jumpin’ Jack Flash - Live,2016,303.6,29,TRUE
+Gimme Shelter - Live,2016,418.747,31,TRUE
+Rip This Joint - Live,2016,176.133,23,TRUE
+Street Fighting Man - Live,2016,291.253,28,TRUE
+Jumpin' Jack Flash - Live,2016,286.051,36,TRUE
+It's Only Rock 'N Roll (But I Like It) - Live,2016,275.41,34,TRUE
+Tumbling Dice - Live,2016,303.274,32,TRUE
+Out Of Control - Live,2016,433.286,35,TRUE
+All Down The Line - Live,2016,322.749,31,TRUE
+Angie - Live,2016,209.8,35,TRUE
+Paint It Black - Live,2016,332.473,34,TRUE
+Honky Tonk Women - Live,2016,297.111,34,TRUE
+You Got The Silver - Live,2016,209.368,30,TRUE
+Before They Make Me Run - Live,2016,242.21,29,TRUE
+Midnight Rambler - Live,2016,929.458,31,TRUE
+Miss You - Live,2016,500.552,32,TRUE
+Gimme Shelter - Live,2016,484.999,34,TRUE
+Start Me Up - Live,2016,261.952,32,TRUE
+Sympathy For The Devil - Live,2016,475.218,35,TRUE
+Brown Sugar - Live,2016,433.033,31,TRUE
+You Can’t Always Get What You Want - Live,2016,537.562,32,TRUE
+(I Can't Get No) Satisfaction - Live,2016,628.947,34,TRUE
+Just Your Fool,2016,136.427,49,FALSE
+Commit A Crime,2016,218.307,41,FALSE
+Blue And Lonesome,2016,187.307,42,FALSE
+All Of Your Love,2016,286.68,40,FALSE
+I Gotta Go,2016,206.173,42,FALSE
+Everybody Knows About My Good Thing,2016,270.827,40,FALSE
+Ride 'Em On Down,2016,168.987,49,FALSE
+Hate To See You Go,2016,200.787,49,FALSE
+Hoo Doo Blues,2016,156.84,38,FALSE
+Little Rain,2016,212.213,39,FALSE
+Just Like I Treat You,2016,204.653,38,FALSE
+I Can't Quit You Baby,2016,313.04,41,FALSE
+Mercy Mercy,2017,167.067,5,FALSE
+Hitch Hike,2017,146.133,4,FALSE
+The Last Time,2017,222.4,7,FALSE
+That's How Strong My Love Is,2017,145.627,4,FALSE
+Good Times,2017,119,5,FALSE
+I'm Alright - Live Version,2017,145.133,3,TRUE
+Satisfaction,2017,223.44,39,FALSE
+Cry To Me,2017,189.493,7,FALSE
+The Under Assistant West Coast Promotion Man,2017,187.467,5,FALSE
+Play With Fire,2017,135.067,12,FALSE
+The Spider And The Fly,2017,219.707,7,FALSE
+One More Try,2017,117,5,FALSE
+Intro - Live,2017,48,25,TRUE
+Brown Sugar - Live,2017,193.733,29,TRUE
+Bitch - Live,2017,285.867,28,TRUE
+Gimme Shelter - Live,2017,290.493,29,TRUE
+Dead Flowers - Live,2017,243.053,28,TRUE
+Happy - Live,2017,194.6,27,TRUE
+Tumbling Dice - Live,2017,321,27,TRUE
+Love In Vain - Live,2017,377.667,25,TRUE
+Sweet Virginia - Live,2017,285.173,26,TRUE
+You Can’t Always Get What You Want - Live,2017,446.907,29,TRUE
+All Down The Line - Live,2017,286.933,24,TRUE
+Midnight Rambler - Live,2017,721.76,26,TRUE
+Bye Bye Johnny - Live,2017,271.853,24,TRUE
+Rip This Joint - Live,2017,152.733,23,TRUE
+Jumpin' Jack Flash - Live,2017,218.88,25,TRUE
+Street Fighting Man - Live,2017,254.76,24,TRUE
+Start Me Up - Live,2017,274.493,30,TRUE
+When The Whip Comes Down - Live,2017,250.387,28,TRUE
+All Down The Line - Live,2017,297.147,28,TRUE
+Sway - Live,2017,211.307,28,TRUE
+Dead Flowers - Live,2017,254.587,30,TRUE
+Wild Horses - Live,2017,280.84,30,TRUE
+Sister Morphine - Live,2017,356.547,28,TRUE
+You Gotta Move - Live,2017,216.613,26,TRUE
+Bitch - Live,2017,267.253,26,TRUE
+Can't You Hear Me Knocking - Live,2017,441.147,30,TRUE
+I Got The Blues - Live,2017,269.68,25,TRUE
+Moonlight Mile - Live,2017,281.227,26,TRUE
+Brown Sugar - Live,2017,490.96,26,TRUE
+Rock Me Baby - Live,2017,271.48,24,TRUE
+Jumpin’ Jack Flash - Live,2017,287.44,26,TRUE
+I Can’t Turn You Loose - Live,2017,324.667,23,TRUE
+Come On - Saturday Club / 1963,2017,122.987,47,FALSE
+(I Can't Get No) Satisfaction - Saturday Club / 1965,2017,226.88,47,FALSE
+Roll Over Beethoven - Saturday Club / 1963,2017,139.427,46,FALSE
+The Spider And The Fly - Yeah Yeah / 1965,2017,194.16,44,FALSE
+Cops And Robbers - Blues In Rhythm / 1964,2017,224.867,44,FALSE
+It's All Over Now - The Joe Loss Pop Show / 1964,2017,198.787,43,FALSE
+Route 66 - Blues In Rhythm / 1964,2017,152.467,44,FALSE
+"Memphis, Tennessee - Saturday Club / 1963",2017,142.093,42,FALSE
+Down The Road Apiece - Top Gear / 1965,2017,121.787,41,FALSE
+The Last Time - Top Gear / 1965,2017,190.573,42,FALSE
+Cry To Me - Saturday Club / 1965,2017,187.2,41,FALSE
+"Mercy, Mercy - Yeah Yeah / 1965",2017,174.653,40,FALSE
+Oh! Baby (We Got A Good Thing Goin’) - Saturday Club / 1965,2017,109.28,40,FALSE
+Around And Around - Top Gear / 1964,2017,165.627,40,FALSE
+Hi Heel Sneakers - Saturday Club / 1965,2017,116.56,39,FALSE
+Fannie Mae - Saturday Club / 1965,2017,131.827,40,FALSE
+You Better Move On - Blues In Rhythm / 1964,2017,166.48,40,FALSE
+Mona - Blues In Rhythm / 1964,2017,178.413,40,FALSE
+I Wanna Be Your Man - Saturday Club / 1964,2017,112.747,38,FALSE
+Carol - Saturday Club / 1964,2017,151.627,38,FALSE
+Around and Around,2018,184.027,22,FALSE
+Confessin' the Blues,2018,168.667,21,FALSE
+Time Is on My Side,2018,174.467,22,FALSE
+Susie Q,2018,110.973,21,FALSE
+Everybody Needs Somebody to Love,2018,180.48,21,FALSE
+Under the Boardwalk,2018,167.48,20,FALSE
+Mona - I Need You Baby,2018,215.373,19,FALSE
+Route 66,2018,160.333,20,FALSE
+Honest I Do,2018,130.893,18,FALSE
+I'm a King Bee,2018,157.293,19,FALSE
+Carol,2018,154.667,18,FALSE
+Not Fade Away,2018,108.067,19,FALSE
+Walking the Dog,2018,189.173,18,FALSE
+Tell Me,2018,159.667,17,FALSE
+It''s All over Now,2018,207.52,19,FALSE
